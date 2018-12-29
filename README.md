@@ -1,5 +1,5 @@
 # 书单
-:checkered_flag: 已读
+已读:checkered_flag:
 
 ## 计算机基础
 - 计算机系统结构：量化研究方法（第5版）
