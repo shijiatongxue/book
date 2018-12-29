@@ -1,19 +1,13 @@
 # 书单
+:checkered_flag: 已读
+
 ## 计算机基础
 - 计算机系统结构：量化研究方法（第5版）
-
-高级计算机系统结构课程推荐教材。
 - Computer Networks(4th)
 - Introduction to Networking
 - Distributed and Cloud Computing
-
-分布式系统课程推荐教材。
 - Hadoop The Definitive Guide(4th)
-
-Hadoop/Mapreduce编程实践课程推荐教材。
 - Hadoop权威指南（第二版）
-
-Hadoop/Mapreduce编程实践课程推荐教材，中文第二版。
 - Linux Probe
 ## Python
 - Python for Everybody
