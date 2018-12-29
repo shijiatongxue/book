@@ -22,7 +22,7 @@ Hadoop/Mapreduce编程实践课程推荐教材，中文第二版。
 - Python编程 从入门到实践
 - 流畅的Python
 ## 机器学习
-- An Introduction to Stastical Learning
+- An Introduction to Stastical Learning :checkered_flag:
 - 数据挖掘导论
 - 机器学习实战
 - Machine Learning In Action
