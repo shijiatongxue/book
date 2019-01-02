@@ -26,15 +26,11 @@
 - 推荐系统实战
 - Machine Learning Yearning
 - The Elements of Stastical Learning
+- [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks/home/welcome
+) :checkered_flag:
 ## 面试
 - 剑指Offer
 ## 综合
 - 数学之美
 ## API
 - Networkx Reference
-
-# 课程
-已学:checkered_flag:
-## 机器学习
-- [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks/home/welcome
-) :checkered_flag:
