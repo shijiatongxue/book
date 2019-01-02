@@ -32,3 +32,9 @@
 - 数学之美
 ## API
 - Networkx Reference
+
+# 课程
+已学:checkered_flag:
+## 机器学习
+- [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks/home/welcome
+) :checkered_flag:
