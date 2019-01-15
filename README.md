@@ -28,6 +28,8 @@
 - The Elements of Stastical Learning
 - [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks/home/welcome
 ) :checkered_flag:
+- [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models/home/welcome
+) :checkered_flag:
 ## 面试
 - 剑指Offer
 ## 综合
