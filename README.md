@@ -1,6 +1,10 @@
 # 书单
 已读:checkered_flag::checkered_flag::checkered_flag:
 
+## 优秀的程序员
+- Linux命令行与shell脚本编程大全
+- 高性能mysql
+- Redis开发与运维
 ## 计算机基础
 - 计算机系统结构：量化研究方法（第5版）
 - Computer Networks(4th)
